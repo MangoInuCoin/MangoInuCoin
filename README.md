@@ -104,10 +104,10 @@ It's better to choose ports that aren't used by other software or coins. See kno
 * http://www.networksorcery.com/enp/protocol/ip/ports00000.htm
 * http://keir.net/portlist.html
 
-Example:
+For MangoInuCoin:
 ```
-const int P2P_DEFAULT_PORT = 17236;
-const int RPC_DEFAULT_PORT = 18236;
+const int P2P_DEFAULT_PORT = 42069;
+const int RPC_DEFAULT_PORT = 69420;
 ```
 
 
